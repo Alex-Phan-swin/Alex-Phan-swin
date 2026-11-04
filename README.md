@@ -21,11 +21,11 @@ TensorFlow · PyTorch · Scikit-learn · OpenCV · Deep Learning · Computer Vis
 
 **Cloud & DevOps**
 
-AWS · Azure · Docker · Terraform · GitHub Actions · CI/CD · DVC · DagsHub
+AWS · Azure · Docker · GitHub Actions · CI/CD · DVC · DagsHub
 
 **Databases & Development Tools**
 
-MySQL · Oracle · Git · GitHub · Bitbucket · Jira · pytest
+MySQL · Git · GitHub · Bitbucket · Jira · pytest
 
 
 ---
