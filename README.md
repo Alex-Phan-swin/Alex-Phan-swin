@@ -2,8 +2,6 @@
 
 ### Computer Science Student | Software Developer | AI/ML Enthusiast
 
-I'm a Bachelor of Computer Science student majoring in Artificial Intelligence at **Swinburne University of Technology**, with an expected graduation in November 2026.
-
 I enjoy building software applications, developing machine learning models, and exploring cloud infrastructure and deployment. My interests include AI engineering, backend development, MLOps, and scalable cloud applications.
 
 
@@ -13,15 +11,15 @@ I enjoy building software applications, developing machine learning models, and 
 
 **Programming Languages**
 
-Python · C# · JavaScript · SQL · HTML · CSS · Bash
+Python · C# · SQL · HTML · CSS
 
 **AI & Machine Learning**
 
-TensorFlow · PyTorch · Scikit-learn · OpenCV · Deep Learning · Computer Vision
+TensorFlow · PyTorch · Scikit-learn · Deep Learning · Computer Vision
 
 **Cloud & DevOps**
 
-AWS · Azure · Docker · GitHub Actions · CI/CD · DVC · DagsHub
+AWS · Docker · GitHub Actions · CI/CD · DVC · DagsHub
 
 **Databases & Development Tools**
 
@@ -34,7 +32,7 @@ MySQL · Git · GitHub · Bitbucket · Jira · pytest
 
 ### 🧠 Brain MRI Tumour Segmentation
 
-**Technologies:** Python · TensorFlow · PyTorch · U-Net · AWS SageMaker · OpenCV
+**Technologies:** Python · TensorFlow · PyTorch · U-Net · AWS SageMaker 
 
 Developing deep learning models to identify and segment brain tumours from multimodal MRI scans using the BraTS 2020 dataset.
 
