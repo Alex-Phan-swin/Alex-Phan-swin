@@ -59,7 +59,6 @@ Developing deep learning models to identify and segment brain tumours from multi
 - Evaluated segmentation performance using Dice Score, Precision, and Recall.
 - Explored cloud-based model training using AWS SageMaker.
 
-Repository: [BraTS Segmentation U-Net](https://github.com/cleo-tongli/brats-segmentation-unet)
 
 ### ⚙️ MLOps – Automated Model Retraining & Monitoring
 
@@ -106,23 +105,5 @@ Worked on an AI-based medical imaging project combining radiology scan analysis 
 - Experimented with data augmentation and transfer learning.
 - Investigated model fine-tuning and overfitting reduction.
 - Collaborated through an Agile development workflow using Jira and Git.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-Phan-swin&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Phan-swin&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-- **GitHub:** [Alex-Phan-swin](https://github.com/Alex-Phan-swin)
-- **LinkedIn:** [Add your LinkedIn profile]
-- **Email:** [Add your professional email]
-
----
 
 *Always interested in learning new technologies, solving problems, and building useful software.*
