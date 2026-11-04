@@ -105,5 +105,7 @@ Worked on an AI-based medical imaging project combining radiology scan analysis 
 - Experimented with data augmentation and transfer learning.
 - Investigated model fine-tuning and overfitting reduction.
 - Collaborated through an Agile development workflow using Jira and Git.
+  
+📫 Connect With Me
 
-*Always interested in learning new technologies, solving problems, and building useful software.*
+Email: alexphan0037@gmail.com
