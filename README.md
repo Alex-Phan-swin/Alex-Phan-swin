@@ -6,11 +6,6 @@ I'm a Bachelor of Computer Science student majoring in Artificial Intelligence a
 
 I enjoy building software applications, developing machine learning models, and exploring cloud infrastructure and deployment. My interests include AI engineering, backend development, MLOps, and scalable cloud applications.
 
-- 🎓 Bachelor of Computer Science (Artificial Intelligence) — Swinburne University
-- 💻 Interested in Software Engineering, AI/ML, and Cloud Computing
-- 🔬 Experience developing deep learning models for medical image analysis
-- ☁️ Experience with AWS, Azure, Docker, and CI/CD pipelines
-- 🚀 Continuously learning and building practical software projects
 
 ---
 
@@ -32,15 +27,6 @@ AWS · Azure · Docker · Terraform · GitHub Actions · CI/CD · DVC · DagsHub
 
 MySQL · Oracle · Git · GitHub · Bitbucket · Jira · pytest
 
-**Development Areas**
-
-- Software Development
-- Machine Learning & Deep Learning
-- Computer Vision
-- REST API Development
-- Cloud Deployment
-- Model Training & Evaluation
-- Automated Testing
 
 ---
 
